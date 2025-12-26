@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>JapaNichijou APIs</title>
+</head>
+<body>
+  <h1>JapaNichijou APIs</h1>
+  <p>This application is a Google Sheets tool used by JapaNichijou to convert spreadsheet-based Japanese vocabulary into JSON and optionally upload it to GitHub.</p>
+
+  <ul>
+    <li><a href="/privacy.html">Privacy Policy</a></li>
+    <li><a href="/terms.html">Terms of Service</a></li>
+  </ul>
+</body>
+</html>
